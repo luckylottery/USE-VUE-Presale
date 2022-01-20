@@ -1,0 +1,33 @@
+.navbar {
+    margin-right: 68px;
+    opacity: 1;
+}
+
+.links.home {
+    display: flex;
+    gap: 24px;
+    justify-content: center !important;
+}
+
+.btn-primary {
+    height: 39px;
+    width: 156px;
+}
+
+.btn-app {
+    cursor: pointer;
+    font-family: Montserrat,sans-serif;
+    border-style: none;
+    padding: 0;
+    width: 156px;
+    height: 39px;
+    border-radius: 2px;
+    font-size: 16px;
+    color: #d4b5ff;
+    font-weight: 600;
+    background: #6D1EDA;
+}
+
+.stake-content {
+    height: 85% !important;
+}
